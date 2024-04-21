@@ -4,6 +4,6 @@
 
 **Models** - It consists of implementation of Decision Tree and support vector machine.
 
-**PDFiD **- Library functions of the PDFiD tool
+**PDFiD**- Library functions of the PDFiD tool
 
 Note : I have not uploaded the dataset and csv files created by PDFiD tool beacuase of its vast size, I faced some diffculties to upload these files. but I have uploaded all the implemenation parts.
